@@ -1,17 +1,17 @@
-.no-padding {
-  padding: 0;
-}
-@media (min-width: 320px) {
-  .sidebar {
-    display: none;
-  }
-  .imglogo {
-    display: none;
-  }
-  .navbar {
-    background-color: #f8f9fa;
-  }
-}
+/*.no-padding {*/
+/*  padding: 0;*/
+/*}*/
+/*@media (min-width: 320px) {*/
+/*  .sidebar {*/
+/*    display: none;*/
+/*  }*/
+/*  .imglogo {*/
+/*    display: none;*/
+/*  }*/
+/*  .navbar {*/
+/*    background-color: #f8f9fa;*/
+/*  }*/
+/*}*/
 
 @media (min-width: 768px) {
   .logo {
